@@ -20,12 +20,7 @@
 
 ## 🖥️ My Dev Setup
 
-<img src="https://img.shields.io/badge/Pop!_OS-32302f.svg?&style=round-square&logo=popos&logoColor=48B9C7"> 
-<img src="https://img.shields.io/badge/macOS-32302f.svg?&style=round-square&logo=apple&logoColor=white"> 
-<img src="https://img.shields.io/badge/VSCode-32302f.svg?&style=round-square&logo=visualstudiocode&logoColor=007ACC">
-<img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=round-square&logo=gnometerminal&logoColor=white">
-<img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=round-square&logo=obsidian&logoColor=483699">
-<img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=round-square&logo=spotify&logoColor=1ED760">
+<img src="https://img.shields.io/badge/Pop!_OS-32302f.svg?&style=round-square&logo=popos&logoColor=48B9C7"> <img src="https://img.shields.io/badge/macOS-32302f.svg?&style=round-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-32302f.svg?&style=round-square&logo=visualstudiocode&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=round-square&logo=gnometerminal&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=round-square&logo=obsidian&logoColor=483699"> <img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=round-square&logo=spotify&logoColor=1ED760">
 
 ---
 
