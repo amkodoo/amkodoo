@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  <img src="img/amkodoo.png" alt="Banner" width="100%">
+</div>
 
-<!--
-**amkodoo/amkodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡️ A Few Quick **Facts**
 
-Here are some ideas to get you started:
+<img height="200" src="img/berserk.gif" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently working as a Cloud & Data Engineer
+- 🔗 I love connecting IoT systems and solving interoperability challenges
+- 📊 Building small Streamlit apps for data visualization and analytics
+- 🐍 Exploring Python automation and algorithmic problem solving
+- 🛠️ Into DIY electronics and small-scale robotics projects
+- 🎨 Enjoy designing & 3D printing parts that merge with electronics
+- 🌱 Learning frontend development to close the full-stack loop
+- 🧠 Passionate about self-education, open-source, and experimentation
+- 🎓 Hold a Bachelor’s degree in Mechatronics Engineering
+
+---
+
+## 🖥️ My Dev Setup
+
+<img src="https://img.shields.io/badge/Pop!_OS-32302f.svg?&style=round-square&logo=popos&logoColor=48B9C7"> 
+<img src="https://img.shields.io/badge/macOS-32302f.svg?&style=round-square&logo=apple&logoColor=white"> 
+<img src="https://img.shields.io/badge/VSCode-32302f.svg?&style=round-square&logo=visualstudiocode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=round-square&logo=gnometerminal&logoColor=white">
+<img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=round-square&logo=obsidian&logoColor=483699">
+<img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=round-square&logo=spotify&logoColor=1ED760">
+
+---
+
+## ⚙️ Tech & Tools I use
+
+[![My Skills](https://skillicons.dev/icons?i=python,git,docker,aws,terraform,kafka,typescript,react,angular,postgres,go,linux,bash,raspberrypi,arduino,vscode,&perline=17)](https://skillicons.dev)
+
+---
