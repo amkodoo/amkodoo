@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/amkodoo5.png" alt="Banner" width="100%">
+  <img src="img/amkodoo.png" alt="Banner" width="100%">
 </div>
 
 ## ⚡️ A Few Quick Facts
