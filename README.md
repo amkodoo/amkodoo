@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="img/amkodoo.png" alt="Banner" width="100%">
+  <img src="img/amkodoo.png" alt="Banner" width="70%">
 </div>
 
 ## ⚡️ A Few Quick Facts
 
-<img style="border-radius: 30px" height="200" src="img/guts.gif" align="right">
+<img height="200" src="img/guts.gif" align="right">
 
 - ☁️ Working as Cloud engineer
 - 🔗 Connecting IoT, edge, and cloud systems
