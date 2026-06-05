@@ -12,8 +12,6 @@ devops engineer / cloud infra / automation / strange little systems
 
 ## ~/field-notes
 
-<img height="220" src="img/solarpunk-terminal.png" align="right">
-
 ```txt
 > whoami
 devops engineer. mostly somewhere between terminals,
